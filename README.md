@@ -14,7 +14,7 @@ Code for paper: Fairness by "Where": A Statistically-Robust and Model-Agnostic B
 * X_test.npy: all testing samples (not overlapped with training samples).
 * y_test.npy: the corresponding labels for testing samples.
 * test_id.pickle: training samples' indices for all partitions within each candidate partitioning.
-* results: an example
+* results: an example model.
 
 ## Explanation of the code:
 
