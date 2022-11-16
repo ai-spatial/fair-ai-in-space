@@ -6,12 +6,10 @@ Code for paper: Fairness by "Where": A Statistically-Robust and Model-Agnostic B
 
 
 ====================================================
-## Explanation of files
+## Explanation of files (link for data: https://pitt-my.sharepoint.com/:f:/g/personal/erh108_pitt_edu/EmqOrtnsaCVFnD_PA1cFjt8BLX1zg6Ws0smAF0hr90JKjw?e=NCHtar)
 
 * X_train.npy: all training samples extracted from the satellite-based crop monitoring dataset.
 * y_train.npy: the corresponding labels for training samples.
-
-(Link for data: https://pitt-my.sharepoint.com/:f:/g/personal/erh108_pitt_edu/EmqOrtnsaCVFnD_PA1cFjt8BLX1zg6Ws0smAF0hr90JKjw?e=NCHtar)
 * train_id.pickle: training samples' indices for all partitions within each candidate partitioning.
 * X_test.npy: all testing samples (not overlapped with training samples).
 * y_test.npy: the corresponding labels for testing samples.
