@@ -6,7 +6,8 @@ Code for paper: Fairness by "Where": A Statistically-Robust and Model-Agnostic B
 
 
 ====================================================
-## Explanation of files (link for data: https://pitt-my.sharepoint.com/:f:/g/personal/erh108_pitt_edu/EmqOrtnsaCVFnD_PA1cFjt8BLX1zg6Ws0smAF0hr90JKjw?e=NCHtar)
+## Explanation of files 
+(Link for data: https://pitt-my.sharepoint.com/:f:/g/personal/erh108_pitt_edu/EmqOrtnsaCVFnD_PA1cFjt8BLX1zg6Ws0smAF0hr90JKjw?e=NCHtar)
 
 * X_train.npy: all training samples extracted from the satellite-based crop monitoring dataset.
 * y_train.npy: the corresponding labels for training samples.
